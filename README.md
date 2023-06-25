@@ -10,3 +10,4 @@ Electrical Engineer ,Interested in Embedded Software Engineering
 - 📫 How to reach me: **01211908397** or **mostafaanwar6600@gmail.com**
 - 🌱 I’m currently learning **linux**
 - 🤔 I’m currently open for: **new job opportunity**
+- - 📄 Know about my experiences: **file:///C:/Users/Arabtech/OneDrive/Desktop/Mostafa_%20Anwar_CV.pdf**
