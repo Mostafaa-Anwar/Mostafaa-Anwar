@@ -10,4 +10,4 @@ Electrical Engineer ,Interested in Embedded Software Engineering
 - 📫 How to reach me: **01211908397** or **mostafaanwar6600@gmail.com**
 - 🌱 I’m currently learning **linux**
 - 🤔 I’m currently open for: **new job opportunity**
-- 📄 Know about my experiences: [MY RESUME](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences: [MY RESUME](https://drive.google.com/file/d/1twR6ZVe2cUOr4h6YwFOfCbm5w143P6hN/view?usp=drive_link)
