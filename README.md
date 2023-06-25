@@ -6,7 +6,7 @@ Electrical Engineer ,Interested in Embedded Software Engineering
                   I Never give up !
                  🔥🔥🔥🚀🚀🚀🔥🔥🔥
 
-- 💬 Ask me about Embedded System 
-- 📫 How to reach me: 01211908397 or mostafaanwar6600@gmail.com
-- 🌱 I’m currently learning linux
+- 💬 Ask me about **Embedded System** 
+- 📫 How to reach me: **01211908397** or **mostafaanwar6600@gmail.com**
+- 🌱 I’m currently learning **linux**
 - 🤔 I’m currently open for: **new job opportunity**
