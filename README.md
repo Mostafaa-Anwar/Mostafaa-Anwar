@@ -2,10 +2,10 @@
 <h3 align="center">A Journey into Embedded Software Engineering</h3>
 <h4 align="center"><img src ="https://vivekvivian.files.wordpress.com/2020/05/blog_post_js.gif"  width="500px" alt="gif"/></h4>
 
-<h5 align="center">Electrical Engineer ,Interested in Embedded Software Engineering<br></h5>
-<h6 align="center">And here is important note about me<br><br></h6>
-<h7 align="center">I Never give up !</h7>
-<h8 align="center">🔥🔥🔥🚀🚀🚀🔥🔥🔥</h8>
+<h5 align="center">Electrical Engineer ,Interested in Embedded Software Engineering</h5>
+And here is important note about me
+I Never give up !
+🔥🔥🔥🚀🚀🚀🔥🔥🔥
 
 - 💬 Ask me about **Embedded System** 
 - 📫 How to reach me: **01211908397** or **mostafaanwar6600@gmail.com**
