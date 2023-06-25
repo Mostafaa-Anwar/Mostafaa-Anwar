@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Moatafa Anwar</h1>
+ <h1 align="center">Hi 👋, I'm Moatafa Anwar</h1>
 <h3 align="center">A Journey into Embedded Software Engineering</h3>
-<h4 align="center"> <img src ="https://vivekvivian.files.wordpress.com/2020/05/blog_post_js.gif" width="500px" alt="gif"/>
+<img src ="https://vivekvivian.files.wordpress.com/2020/05/blog_post_js.gif" width="500px" align="center" alt="gif"/>
 Electrical Engineer ,Interested in Embedded Software Engineering
            And here is important note about me
                   I Never give up !
