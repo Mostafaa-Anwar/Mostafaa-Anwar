@@ -5,7 +5,7 @@
 <h5 align="center">Electrical Engineer ,Interested in Embedded Software Engineering</h5>
 <h1 align="center">And here is important note about me</h1>
 <h1 align="center">I Never give up !</h1>
-🔥🔥🔥🚀🚀🚀🔥🔥🔥
+<h1 align="center">🔥🔥🔥🚀🚀🚀🔥🔥🔥</h1>
 
 - 💬 Ask me about **Embedded System** 
 - 📫 How to reach me: **01211908397** or **mostafaanwar6600@gmail.com**
