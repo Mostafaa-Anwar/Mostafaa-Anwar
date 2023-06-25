@@ -2,9 +2,9 @@
 <h3 align="center">A Journey into Embedded Software Engineering</h3>
 <h4 align="center"><img src ="https://vivekvivian.files.wordpress.com/2020/05/blog_post_js.gif"  width="500px" alt="gif"/></h4>
 
-<h5 align="center"><p>Electrical Engineer ,Interested in Embedded Software Engineering<br></h5>
+<h5 align="center">Electrical Engineer ,Interested in Embedded Software Engineering<br></h5>
 <h6 align="center">And here is important note about me<br><br></h6>
-<h7 align="center">I Never give up !<br></h7>
+<h7 align="center">I Never give up !<br><br><br></h7>
 <h8 align="center">🔥🔥🔥🚀🚀🚀🔥🔥🔥</h8>
 
 - 💬 Ask me about **Embedded System** 
