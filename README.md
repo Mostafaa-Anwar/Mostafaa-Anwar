@@ -4,7 +4,7 @@
 
 <h5 align="center"><p>Electrical Engineer ,Interested in Embedded Software Engineering<br></h5>
 <h6 align="center"><p>And here is important note about me<br></h6>
-<h7 align="center">I Never give up !<br></h7>
+<h7 align="center"><p>I Never give up !<br></h7>
 <h8 align="center">🔥🔥🔥🚀🚀🚀🔥🔥🔥</h8>
 
 - 💬 Ask me about **Embedded System** 
